@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Voom</string>
+    <string name="title_activity_main">RegisterActivity</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_activity_setings">SettingsActivity</string>
+    <string name="title_activity_notifications">NotificationsActivity</string>
+</resources>
